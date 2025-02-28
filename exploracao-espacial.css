@@ -245,3 +245,10 @@ main {
     text-align: justify; 
     margin-bottom: 20px; 
 } 
+
+footer { 
+    background-color: var(--blue-dark); 
+    color: var(--white); 
+    padding: 20px; 
+    text-align: center; 
+}
