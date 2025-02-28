@@ -182,3 +182,28 @@ main {
     line-height: 1.6; 
     text-align: justify; 
 } 
+
+.info-article { 
+    position: relative; 
+    background-image: url("imagens/astronauta.jpg"); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+    color: #ffffff; 
+    padding: 60px 20px; 
+    min-height: 100vh; 
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+} 
+ 
+.overlay-descobertas { 
+    background-color: rgba(0, 0, 0, 0.7); 
+    padding: 50px; 
+    max-width: 1300px; 
+    width: 100%; 
+    border-radius: 12px; 
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3); 
+} 
+
