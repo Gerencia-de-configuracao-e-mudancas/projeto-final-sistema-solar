@@ -165,10 +165,13 @@ body {
             gap: 8px;
             }
             footer {
-                margin-top: auto;
-                width: 100%;
-                text-align: center;
-                padding: 20px;
                 background-color: var(--blue-dark);
                 color: var(--white);
+                padding: 20px;
+                text-align: center;
+                font-weight: 400;
+                position: relative;
+                bottom: 0;
+                width: 100%;
+                margin-top: auto;
                 }
