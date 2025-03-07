@@ -83,3 +83,84 @@ body {
         .nav-links .active::after {
         width: 100%;
         }
+        .carousel-container {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 80%;
+            max-width: 900px;
+            background: rgba(29, 30, 51, 0.8);
+            padding: 20px;
+            border-radius: 10px;
+            }
+            button {
+            background-color: var(--yellow-gold);
+            border: none;
+            padding: 10px;
+            cursor: pointer;
+            font-size: 18px;
+            color: var(--blue-dark);
+            margin: 10px;
+            }
+            .carousel {
+            display: flex;
+            overflow: hidden;
+            width: 100%;
+            justify-content: center;
+            }
+            .carousel-item {
+            display: none;
+            flex-direction: row;
+            align-items: center;
+            gap: 20px;
+            padding: 20px;
+            }
+            .carousel-item.active {
+            display: flex;
+            }
+            img {
+            width: 150px;
+            height: auto;
+            }
+            h2 {
+            font-size: 30px; /* Tamanho levemente reduzido */
+            color: var(--yellow-gold);
+            font-weight: bold;
+            text-transform: uppercase;
+            text-align: center;
+            margin-bottom: 15px;
+            }
+            p {
+            color: var(--white); /* Define a cor branca para o texto */
+            font-weight: 550; /* Menos grosso */
+            font-size: 16px; /* Tamanho ajustado */
+            line-height: 1.6; /* Espaçamento equilibrado */
+            text-align: justify;
+            position: relative;
+            padding-left: 18px; /* Espaço para o ponto dourado */
+            }
+            p::before {
+            content: "•";
+            color: var(--yellow-gold);
+            font-size: 20px;
+            position: absolute;
+            left: 0;
+            top: 4px;
+            }
+            .info {
+            color: var(--white);
+            text-align: justify;
+            font-size: 16px;
+            font-weight: 500;
+            line-height: 1.4;
+            }
+            .info p {
+            margin-bottom: 5px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            }
