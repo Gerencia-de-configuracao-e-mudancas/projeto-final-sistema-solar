@@ -1,36 +1,27 @@
 # Sistema Solar - Projeto Educacional
 
-## Descrição do Projeto
-Este projeto consiste em um site interativo e educativo sobre o **Sistema Solar**, desenvolvido como parte do projeto final da disciplina de **Gerência de Configuração e Mudanças**. O site apresenta informações detalhadas sobre os planetas, curiosidades e exploração espacial, com um **design moderno, responsivo e de fácil navegação**.
+## O que o projeto faz
+Este projeto é um **site educativo sobre o Sistema Solar**, desenvolvido para a disciplina de **Gerência de Configuração e Mudanças**. O site fornece informações detalhadas sobre planetas, luas, asteroides e a exploração espacial, com design responsivo e interativo.
 
-## Objetivos e Benefícios
-- **Conteúdo Educativo**: Informações cientificamente precisas sobre o Sistema Solar.
-- **Interface Intuitiva**: Organização clara e acessível do conteúdo para melhor aprendizado.
-- **Disponibilidade Online**: Acesso ao site a qualquer momento via GitHub Pages.
-- **Colaboração Facilitada**: Uso do **Git** para controle de versão, permitindo contribuições e melhorias contínuas.
+## Por que o projeto é útil
+Este site oferece conteúdo **preciso e acessível** sobre o Sistema Solar e a exploração espacial. Ideal para estudantes e curiosos, ele facilita o aprendizado de maneira interativa, com recursos como quizzes e informações detalhadas.
 
-## Como Acessar e Explorar
-1. **Acesse o site publicado via GitHub Pages**: [Link para o site](#)
-2. **Navegue pelas páginas**:
-   - **Início**: Introdução ao projeto.
-   - **Corpos Celestes**: Informações detalhadas sobre os planetas e outros corpos do Sistema Solar.
-   - **Exploração Espacial e Curiosidades**: Descubra fatos interessantes e avanços na exploração do espaço.
-3. **Quer contribuir?**
-   - Clone o repositório e siga as diretrizes de contribuição.
+## Como começar a usar
+1. **Acesse o site** hospedado no GitHub Pages.
+2. Navegue pelas páginas:
+   - **Início**: Introdução ao Sistema Solar.
+   - **Corpos Celestes**: Detalhes sobre planetas e outros corpos celestes.
+   - **Exploração Espacial e Curiosidades**: Fatos históricos e curiosidades sobre o espaço.
+3. **Contribua**: Clone o repositório e siga as diretrizes de contribuição.
 
-## Links Importantes
-- **Repositório no GitHub**: [GitHub Repository](#)
-- **Site Publicado**: [GitHub Pages](#)
+## Onde obter ajuda
+- **Criar uma issue** no GitHub.
+- Envie um **pull request** com as suas contribuições.
 
-## Suporte e Dúvidas
-Caso precise de ajuda ou queira sugerir melhorias, você pode:
-- **Criar uma issue** no repositório do GitHub.
-- **Entrar em contato** com os desenvolvedores através da página de discussões do projeto.
+## Manutenção e Contribuições
+Este projeto é mantido por:
+- **José Antônio Alves Ferreira** - Página **Início**.
+- **Abigail Almeida de Andrade** - Página **Corpos Celestes**.
+- **Arthur Ferreira Leandro** - Página **Exploração Espacial e Curiosidades**.
 
-## Equipe de Desenvolvimento
-Este projeto foi desenvolvido por:
-- **José Antônio Alves Ferreira** - Responsável pela página **Início**.
-- **Abigail Almeida de Andrade** - Responsável pela página **Corpos Celestes**.
-- **Arthur Ferreira Leandro** - Responsável pela página **Exploração Espacial e Curiosidades**.
-
-Agradecemos sua visita! Contribua para expandir esse universo de conhecimento!
+Agradecemos sua visita! Contribua para expandir o conhecimento sobre o Sistema Solar!
