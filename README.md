@@ -1,8 +1,5 @@
 # 🌌 Sistema Solar - Projeto Educacional
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue?logo=github)](https://gerencia-de-configuracao-e-mudancas.github.io/projeto-final-sistema-solar/)
-[![Status](https://img.shields.io/badge/status-online-brightgreen)](https://gerencia-de-configuracao-e-mudancas.github.io/projeto-final-sistema-solar/)
-
 ## 📖 Descrição
 
 Este é um **site educativo sobre o Sistema Solar**, desenvolvido como parte da disciplina de **Gerência de Configuração e Mudanças** do curso de Análise e Desenvolvimento de Sistemas do IFPB.
@@ -84,6 +81,3 @@ Agradecemos sua visita! Esperamos que o site ajude a despertar o interesse pela 
 **Contribua para expandir o conhecimento sobre o Sistema Solar!**
 
 ---
-
-🔗 **Link do site:**  
-https://gerencia-de-configuracao-e-mudancas.github.io/projeto-final-sistema-solar/
